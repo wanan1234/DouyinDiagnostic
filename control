@@ -1,0 +1,9 @@
+Package: com.example.douyindiagnostic
+Name: DouyinDiagnostic
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 抖音 UI 诊断插件
+Maintainer: you <you@example.com>
+Author: you
+Section: Tweaks
+Depends: mobilesubstrate

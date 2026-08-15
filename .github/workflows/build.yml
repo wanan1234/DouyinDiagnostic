@@ -1,4 +1,4 @@
-name: Build HongGuo Tweak
+name: Build Diagnostic Tweak
 
 on:
   push:
